@@ -26,59 +26,72 @@ This section of the text will explain the most important verbs and their forms i
 Subject | -AR ending 	| example with hablar 	| English translation
 --------|---------------|-----------------------|---------------------
 yo 	| -o	| hablo	| I speak
-tu | -as | hablas | you speak
-el, ella | -a | habla | s/he
-nosotros | -amos | hablamos | we speak
-vosotros | -ais | hablais | you speak (plural)
-ellos, ellas | -an | hablan | they speak
+tu | -as | hablas | You speak
+el, ella | -a | habla | S/he
+nosotros | -amos | hablamos | We speak
+vosotros | -ais | hablais | You speak (plural)
+ellos, ellas | -an | hablan | They speak
 
 Subject | -ER ending | example with Comer| English translation
 --------|------------|-------------------|---------------------
 yo | -o | como| I speak
-tu | -es | comes | you speak
-el, ella | -e | come | s/he eats 
-nosotros | -emos | comemos | we eat 
-vosotros | -eis |comeis | you eat 
-ellos, ellas | -en | comen | they eat 
+tu | -es | comes | You speak
+el, ella | -e | come | S/he eats 
+nosotros | -emos | comemos | We eat 
+vosotros | -eis |comeis | You eat 
+ellos, ellas | -en | comen | They eat 
 
 Subject | -IR ending | example with vivir | English translation
 --------|------------|--------------------|---------------------
 yo | -o | vivo | I live
-tu | -es | vives | you live
-el, ella | -e | vive | s/he lives 
-nosotros | -imos | vivimos | we live 
-vosotros | -is | vivis | you live 
-ellos, ellas | -en | viven  | they live
+tu | -es | vives | You live
+el, ella | -e | vive | S/he lives 
+nosotros | -imos | vivimos | We live 
+vosotros | -is | vivis | you Live 
+ellos, ellas | -en | viven  | They live
 
 \pagebreak
 
 ## Important Basic Irregular Verbs
 
+According to Alicia, the most important verbs to learn that are irregular are 'Ser' and 'Ir'.
+the other ones are mostly regular. If there is one form which is irregular, i'll still be understood.
+
+
 ### Ser - "To Be"
 
 Subject | Verb | English translation
 --------|------|--------------------
-yo | soy
-tu | eres
-el, ella | es
-nosotros | somos
-vosotros | sois
-ellos, ellas | son
+yo | soy | I am
+tu | eres | You are
+el, ella | es| S/he is
+nosotros | somos | We are
+vosotros | sois | You are
+ellos, ellas | son | They are
 
 ### Ir - "To Go"
 
 Subject | Verb | English translation
 --------|------|--------------------
-yo | voy | I go
+yo | voy | I go 
 tu | vas | You go
 el, ella | va | S/he goes
 nosotros | vamos | We go
 vosotros | vais | You go
 ellos, ellas | van | They go
 
+### Irregular verbs when the subject is 'Yo'
+
+Subject + Verb |verb| English Translation
+---------------|----|--------------------
+Yo se | saber | I know
+Yo hago | hacer | I do/make
+Yo tengo | tener | I desire/want 
+Yo   
+
+
 \pagebreak
 
-ser and ir most irregular, must memorise.
 
 
 - must learn the 'yo' of saber, hacer, tener, poner, venir ((irregular))
