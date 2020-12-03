@@ -82,26 +82,34 @@ ellos, ellas | van | They go
 
 ### Irregular verbs when the subject is 'Yo'
 
+These verbs are mostly regular, with the exception being with the subject 'yo'. Therefore it is important to memorise.
+
 Subject + Verb |verb| English Translation
 ---------------|----|--------------------
 Yo se | saber | I know
 Yo hago | hacer | I do/make
 Yo tengo | tener | I desire/want 
-Yo   
+Yo pongo | poner | I put
+Yo vengo | venir | I will come 
 
 
 \pagebreak
 
+# Grammar
 
+\pagebreak
 
-- must learn the 'yo' of saber, hacer, tener, poner, venir ((irregular))
+# Present continuous
 
+The present continuous tense, also called the Spanish present progressive 'el presente progresivo' is used to talk about something that is happening now.
 
+## How to Form the Present Continuous
 
+The present progressive is generally formed using the verb estar, plus a [present participle]()https://www.spanishdict.com/guide/present-participles-in-spanish).
 
+> **Present Progressive Formula**:
+> estar + present participle
 
-present continuous - actively doing something
-estar is for present continuous
 
 'i'm studying' - actively doing it
 vs ' i study' - present simple
